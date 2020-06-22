@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/sinwoo1225/reserve_app/static/js/main.e3899c6b.chunk.js",
+    "main.js.map": "/sinwoo1225/reserve_app/static/js/main.e3899c6b.chunk.js.map",
+    "runtime-main.js": "/sinwoo1225/reserve_app/static/js/runtime-main.c400baae.js",
+    "runtime-main.js.map": "/sinwoo1225/reserve_app/static/js/runtime-main.c400baae.js.map",
+    "static/js/2.e2fb0cef.chunk.js": "/sinwoo1225/reserve_app/static/js/2.e2fb0cef.chunk.js",
+    "static/js/2.e2fb0cef.chunk.js.map": "/sinwoo1225/reserve_app/static/js/2.e2fb0cef.chunk.js.map",
+    "index.html": "/sinwoo1225/reserve_app/index.html",
+    "precache-manifest.e83de4760a366cda55b7031b5443f4ee.js": "/sinwoo1225/reserve_app/precache-manifest.e83de4760a366cda55b7031b5443f4ee.js",
+    "service-worker.js": "/sinwoo1225/reserve_app/service-worker.js",
+    "static/js/2.e2fb0cef.chunk.js.LICENSE.txt": "/sinwoo1225/reserve_app/static/js/2.e2fb0cef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c400baae.js",
+    "static/js/2.e2fb0cef.chunk.js",
+    "static/js/main.e3899c6b.chunk.js"
+  ]
+}
