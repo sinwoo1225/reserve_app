@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/reserve_app/static/js/main.88e0558d.chunk.js",
-    "main.js.map": "/reserve_app/static/js/main.88e0558d.chunk.js.map",
+    "main.js": "/reserve_app/static/js/main.ebcb2131.chunk.js",
+    "main.js.map": "/reserve_app/static/js/main.ebcb2131.chunk.js.map",
     "runtime-main.js": "/reserve_app/static/js/runtime-main.c1525733.js",
     "runtime-main.js.map": "/reserve_app/static/js/runtime-main.c1525733.js.map",
     "static/js/2.509b1a80.chunk.js": "/reserve_app/static/js/2.509b1a80.chunk.js",
     "static/js/2.509b1a80.chunk.js.map": "/reserve_app/static/js/2.509b1a80.chunk.js.map",
     "index.html": "/reserve_app/index.html",
-    "precache-manifest.369242f31abec2dd39e0a017db8fa967.js": "/reserve_app/precache-manifest.369242f31abec2dd39e0a017db8fa967.js",
+    "precache-manifest.0c8d5e39a433097bc45d3dcf17e4a741.js": "/reserve_app/precache-manifest.0c8d5e39a433097bc45d3dcf17e4a741.js",
     "service-worker.js": "/reserve_app/service-worker.js",
     "static/js/2.509b1a80.chunk.js.LICENSE.txt": "/reserve_app/static/js/2.509b1a80.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c1525733.js",
     "static/js/2.509b1a80.chunk.js",
-    "static/js/main.88e0558d.chunk.js"
+    "static/js/main.ebcb2131.chunk.js"
   ]
 }
